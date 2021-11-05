@@ -73,16 +73,16 @@ All references were accessed and correct as of November 2021
 
 [0] XELplus, Generate Ransdom Numbers Using Excel (No Date) https://www.xelplus.com/wp-content/uploads/2021/06/blogicon_RandomData_flat-BB0000.jpg
 
-### Overview
+#### Overview
 
 
-### Repository Contents
+#### Repository Contents
 
 
-### How To - Run the Notebooks
+#### How To - Run the Notebooks
 
 
-### Nbviewer / Binder
+#### Nbviewer / Binder
 [1] The New York Times, Gretchen Reynolds, (June 30th, 2021) https://www.nytimes.com/2021/02/10/well/move/running-body-evolution.html
 
 
