@@ -61,9 +61,11 @@ text
 
 ## Nbviewer / Binder
 
-text
+Nbviewer link - https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb 
 
-text
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
+
+
 
 text
 
@@ -84,5 +86,8 @@ All references were accessed and correct as of November 2021
 
 #### Nbviewer / Binder
 [1] The New York Times, Gretchen Reynolds, (June 30th, 2021) https://www.nytimes.com/2021/02/10/well/move/running-body-evolution.html
-
+[2] NbViewer, Jupyter nbviewer, (no date) https://nbviewer.org/ 
+[3] Git Hub, nbviewer badge? #714, (16th Aug, 2017) https://github.com/jupyter/nbviewer/issues/714 
+[4] Binder.org, Turn a Git Rept into a collection of interactive notebooks, (no Date) https://mybinder.org/
+[5] Bonder.org, Sample Binder Repositories, (2017) https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html?highlight=requirements#requirements-and-suggestions
 
