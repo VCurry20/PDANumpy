@@ -46,6 +46,9 @@ In this repository you will find the included files:
 
 > .gitignore
 
+> Brief
+
+[1]
 
 <br/>
 
@@ -85,7 +88,13 @@ The following is also a rendering of the nbviewer page - this can be added to do
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
 
 
-2. [Binder]()
+2. [Binder](https://hub.gke2.mybinder.org/user/vcurry20-pdanumpy-aeyeyxc2/notebooks/Numpy.ipynb)
+
+This binder link will give you the option to interact with the notebook, you can change the code and therefore outputs. 
+
+This process will not save changes or amend the original. [4][5]
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/PDANumpy/blob/main/Numpy.ipynb/HEAD)
 
 
 
@@ -100,6 +109,7 @@ All references were accessed and correct as of November 2021
 
 #### Repository Contents
 
+[1] Github - VCurry20 - https://github.com/VCurry20/PDANumpy
 
 #### How To - Run the Notebooks
 
