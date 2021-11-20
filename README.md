@@ -30,6 +30,7 @@ This assignment will include the following:
 
 - Explain the used of seeds in generating pseudorandom numbers
 
+[1]
 <br/>
 
 ## Repository Contents
@@ -87,16 +88,21 @@ The following is also a rendering of the nbviewer page - this can be added to do
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
 
+[1][2]
 
 2. [Binder](https://hub.gke2.mybinder.org/user/vcurry20-pdanumpy-aeyeyxc2/notebooks/Numpy.ipynb)
 
 This binder link will give you the option to interact with the notebook, you can change the code and therefore outputs. 
 
-This process will not save changes or amend the original. [4][5]
+Hold Shift and Enter to go down through the notebook - which will also run the code.
+
+As many of the code lines are set as random, the outputs of this code will change each time it is run. This will give you a better overall understanding of the random nature of the data. Further for the data that has been "seeded" you will see that also the data is random it is also reproducible.
+
+The process of using binder to work on the notebook will not save changes or amend the original, it wll however give you a better understanding of the code and the code outputs.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/PDANumpy/blob/main/Numpy.ipynb/HEAD)
 
-
+[3][4]
 
 
 ## References:
@@ -106,6 +112,7 @@ All references were accessed and correct as of November 2021
 
 #### Overview
 
+[1] Github - VCurry20 - Brief - https://github.com/VCurry20/PDANumpy/tree/main/Brief
 
 #### Repository Contents
 
@@ -130,12 +137,11 @@ All references were accessed and correct as of November 2021
 
 #### Nbviewer / Binder
 
+[1] NbViewer, Jupyter nbviewer, (no date) https://nbviewer.org/ 
 
-[2] NbViewer, Jupyter nbviewer, (no date) https://nbviewer.org/ 
+[2] Git Hub, nbviewer badge? #714, (16th Aug, 2017) https://github.com/jupyter/nbviewer/issues/714 
 
-[3] Git Hub, nbviewer badge? #714, (16th Aug, 2017) https://github.com/jupyter/nbviewer/issues/714 
+[3] Binder.org, Turn a Git Rept into a collection of interactive notebooks, (no Date) https://mybinder.org/
 
-[4] Binder.org, Turn a Git Rept into a collection of interactive notebooks, (no Date) https://mybinder.org/
-
-[5] Bonder.org, Sample Binder Repositories, (2017) https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html?highlight=requirements#requirements-and-suggestions
+[4] Bonder.org, Sample Binder Repositories, (2017) https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html?highlight=requirements#requirements-and-suggestions
 
