@@ -90,20 +90,21 @@ The following is also a rendering of the nbviewer page - this can be added to do
 
 [1][2]
 
-2. [Binder](https://hub.gke2.mybinder.org/user/vcurry20-pdanumpy-aeyeyxc2/notebooks/Numpy.ipynb)
+2. [Binder](https://hub.gke2.mybinder.org/user/vcurry20-pdanumpy-s2yqglos/notebooks/Numpy.ipynb)
 
 This binder link will give you the option to interact with the notebook, you can change the code and therefore outputs. 
 
 Hold Shift and Enter to go down through the notebook - which will also run the code.
 
-As many of the code lines are set as random, the outputs of this code will change each time it is run. This will give you a better overall understanding of the random nature of the data. Further for the data that has been "seeded" you will see that also the data is random it is also reproducible.
+As many of the code lines are set as random, the outputs of this code will change each time it is run. This will give you a better overall understanding of the random nature of the data. Further for the data that has been "seeded" you will see that also the data is random, but it is also reproducible.
 
-The process of using binder to work on the notebook will not save changes or amend the original, it wll however give you a better understanding of the code and the code outputs.
+The process of using binder to work on the notebook will not save changes or amend the original, it will however give you a better understanding of the code and the code outputs.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/PDANumpy/blob/main/Numpy.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/vcurry20-pdanumpy-s2yqglos/notebooks/Numpy.ipynb)
 
 [3][4]
 
+<br/>
 
 ## References:
 All references were accessed and correct as of November 2021
