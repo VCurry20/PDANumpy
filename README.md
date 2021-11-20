@@ -57,14 +57,15 @@ In this repository you will find the included files:
 
 This NumPy Random overview was completed on a Jupyter Notebook. 
 
-This notebook has been pushed to github, from where you can fork from or clone the respository to your [desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). [1][2] 
+This notebook has been pushed to [github](https://github.com/), from where you can fork from or clone the respository to your [desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). [1][2] 
 
-Using [Anaconda](https://www.anaconda.com/products/individual) and [jupyter](https://jupyter.org/) you can then run the code on your desktop. [3][4]
+Using [Anaconda](https://www.anaconda.com/products/individual) and [Jupyter](https://jupyter.org/) you can then run the code on your desktop. [3][4]
 
 Please note you will also need to have [Git](https://git-scm.com/) installed on your device. [5]
 
 If you are on windows you can use [CMDER](https://cmder.net/) as your terminal. [6]
 
+<br/>
 
 ## Nbviewer & Binder
 
@@ -72,7 +73,13 @@ As an alternative to downloading packages to your device, there are two other op
 
 [Nbviewer](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
 
-With nbviewer you can view a static image of the notebook - this will 
+With nbviewer you can view a static image of the notebook. On this page you cannot actively engage with the notebook.
+
+![alt text](https://github.com/VCurry20/PDANumpy/blob/main/Images/nbviewer.JPG)
+
+Also, you will see the options along the top left of the viewer, from here you can view the code, view github, download the data and also view the page on Binder.
+
+The following is also a rendering of the nbviewer page - this can be added as a more dircret option to view the notebook:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
 
