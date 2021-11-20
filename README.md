@@ -36,13 +36,13 @@ This assignment will include the following:
 
 In this repository you will find the included files:
 
-> Numpy Overview
-
-> Readme
+> NumPy Overview - Jupyter Notebook
 
 > Requirements.txt
 
 > Images
+
+> README.md
 
 > .gitignore
 
@@ -57,17 +57,22 @@ In this repository you will find the included files:
 
 This NumPy Random overview was completed on a Jupyter Notebook. 
 
-This notebook has been pushed to github, from where you can fork from or clone the respotiory to your desktop. Using [Anaconda](https://www.anaconda.com/products/individual) and [jupyter](https://jupyter.org/) you can then run the code on your desktop.
+This notebook has been pushed to github, from where you can fork from or clone the respository to your [desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). [1][2] 
 
-Please note you will also need to have [Git](https://git-scm.com/) installed on your device.
+Using [Anaconda](https://www.anaconda.com/products/individual) and [jupyter](https://jupyter.org/) you can then run the code on your desktop. [3][4]
 
-text
+Please note you will also need to have [Git](https://git-scm.com/) installed on your device. [5]
+
+If you are on windows you can use [CMDER](https://cmder.net/) as your terminal. [6]
 
 
+## Nbviewer & Binder
 
-## Nbviewer / Binder
+As an alternative to downloading packages to your device, there are two other options to you.
 
-Nbviewer link - https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb 
+[Nbviewer](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
+
+With nbviewer you can view a static image of the notebook - this will 
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/PDANumpy/blob/main/Numpy.ipynb)
 
@@ -97,7 +102,9 @@ All references were accessed and correct as of November 2021
 
 [4] Jupyter - 2021 - https://jupyter.org/
 
-[5] Git - 20201 - https://git-scm.com/ 
+[5] Git - 2021 - https://git-scm.com/ 
+
+[6] CMDER - 2021 - https://cmder.net/
 
 
 #### Nbviewer / Binder
