@@ -1,5 +1,4 @@
 numpy
 matplotlib
 seaborn
-scipy.stats import binom
-scipy.stats import poisson
+scipy 
