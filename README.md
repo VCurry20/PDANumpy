@@ -1,9 +1,6 @@
 # PDANumpy
 Assignment for Programming for Data Analysis
 
-Author: Veronica Curry
-
-Student ID: G00074924
 
 Completed: November 2021
 
